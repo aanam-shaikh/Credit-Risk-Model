@@ -101,5 +101,4 @@ streamlit run app.py
 ## Author
 
 **Aanam Shaikh**  
-MSc Data Science | Mumbai  
 [LinkedIn](https://www.linkedin.com/in/aanam-shaikh-941a01256/) | [GitHub](https://github.com/aanam-shaikh)
