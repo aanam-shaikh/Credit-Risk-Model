@@ -6,7 +6,7 @@ An end-to-end machine learning project that predicts whether a loan applicant is
 
 ## Project Overview
 
-Credit risk assessment is one of the most critical functions in financial services. This project simulates a real-world credit risk modeling pipeline — from raw data exploration to a live prediction dashboard — using the German Credit Dataset.
+Credit risk assessment is one of the most critical functions in financial services. This project simulates a real-world credit risk modeling pipeline, from raw data exploration to a live prediction dashboard — using the German Credit Dataset.
 
 ---
 
